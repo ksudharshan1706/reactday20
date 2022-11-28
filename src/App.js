@@ -45,7 +45,7 @@ function Welcome() {
       price: "15",
       ullist: [
         { liclass: "", iclass: "fas fa-check", desc: "5 User" },
-        { liclass: "", iclass: "fas fa-check", desc: "5GB Storage" },
+        { liclass: "", iclass: "fas fa-check", desc: "50GB Storage" },
         {
           liclass: "",
           iclass: "fas fa-check",
@@ -75,7 +75,7 @@ function Welcome() {
       price: "49",
       ullist: [
         { liclass: "", iclass: "fas fa-check", desc: "Single User" },
-        { liclass: "", iclass: "fas fa-check", desc: "5GB Storage" },
+        { liclass: "", iclass: "fas fa-check", desc: "150GB Storage" },
         {
           liclass: "",
           iclass: "fas fa-check",
